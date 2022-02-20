@@ -1,3 +1,6 @@
+// Domain Bytes
+
+// Top sites with large ANY responses
 pixnet.net 4851
 blackboard.com 5489
 schwab.com 5577
@@ -49,3 +52,14 @@ uu.nl 9303
 washingtonexaminer.com 5478
 ocbc.com 5040
 rwth-aachen.de 5163
+
+// Honeypot results
+xerox.com 4539
+cpsc.gov 2751
+com 1658 // interesting to see a TLD being used for reflection
+whitepages.com 1801 // TXT was used here, likely the attacker is trying to get more reflectors as ANY is widely blocked
+collectd.org 7663
+fak.dk 10394
+ip.parrotdns.com 94 // A query used here, I suspect the attacker is looking for a dynamic response payload however this is just a shot in the dark
+kohls.com 2016 // TXT again
+imls.gov 4360
