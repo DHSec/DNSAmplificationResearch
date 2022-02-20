@@ -1,0 +1,8 @@
+88.80.186.137 -> amazon.com // Linode DNS statistics
+185.94.111.1 -> com // Known malicious (Russia)
+122.225.82.74 -> whitepages.com // Known malicious (China)
+45.137.23.252 -> collectd.org // Known malicious (Netherlands)
+45.137.23.252 -> fak.dk // DUP
+167.248.133.143 -> ip.parrotdns.com // Censys
+122.225.82.74 -> kohls.com // DUP
+45.12.134.32 -> imls.gov // Known malicious (Netherlands)
