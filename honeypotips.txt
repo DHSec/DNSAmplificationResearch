@@ -6,3 +6,4 @@
 167.248.133.143 -> ip.parrotdns.com // Censys
 122.225.82.74 -> kohls.com // DUP
 45.12.134.32 -> imls.gov // Known malicious (Netherlands)
+46.249.32.238 -> sl // Netherlands
