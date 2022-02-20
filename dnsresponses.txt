@@ -56,9 +56,10 @@ rwth-aachen.de 5163
 // Honeypot results
 xerox.com 4539
 cpsc.gov 2751
-com 1658 // interesting to see a TLD being used for reflection
+com 1658 // Interesting to see a TLD being used for reflection
 whitepages.com 1801 // TXT was used here, likely the attacker is trying to get more reflectors as ANY is widely blocked
 collectd.org 7663
 fak.dk 10394
 kohls.com 2016 // TXT again
 imls.gov 4360
+sl 5806 // Another TLD
